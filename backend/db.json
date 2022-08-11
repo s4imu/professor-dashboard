@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "registrationnumber": 22053260,
+      "name": "Symon",
+      "grade": "8.9",
+      "situation": "Aprovado"
+    },
+    {
+      "id": 2,
+      "registrationnumber": 22052159,
+      "name": "Ana",
+      "grade": "4.8",
+      "situation": "Reprovado"
+    },
+    {
+      "registrationnumber": "22052378",
+      "name": "Nicole",
+      "grade": "10",
+      "situation": "Aprovada",
+      "id": 3
+    },
+    {
+      "registrationnumber": "22052378",
+      "name": "João",
+      "grade": "3.2",
+      "situation": "Reprovado",
+      "id": 4
+    }
+  ]
+}
